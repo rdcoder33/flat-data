@@ -1,0 +1,10 @@
+This is a stylized illustration of a deconstructed burger. From top to bottom, the components are:
+
+1. The top half of a burger bun.
+2. A layer of lettuce.
+3. Slices of tomato.
+4. A slice of cheese.
+5. A beef patty.
+6. More slices of tomato.
+7. Another layer of lettuce.
+8. The bottom half of the burger bun, resting on

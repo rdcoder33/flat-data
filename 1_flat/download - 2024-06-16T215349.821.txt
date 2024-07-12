@@ -1,0 +1,6 @@
+The image depicts an isometric illustration of a digital interface related to global connectivity and location services. It includes the following elements:
+
+1. A browser window displaying a world map with three user icons connected by dashed lines, indicating global user connectivity.
+2. A large blue location pin icon, signifying location or GPS services.
+3. A cylindrical device, possibly representing a server or a network node.
+4. A square icon with

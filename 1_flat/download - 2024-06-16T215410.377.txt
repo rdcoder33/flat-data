@@ -1,0 +1,6 @@
+This is an illustration of a computer setup. The main components include:
+
+1. **Monitor**: Displaying a web page or document with text and an image placeholder.
+2. **Keyboard**: Positioned in front of the monitor, connected with lines indicating interaction.
+3. **Settings Icon**: Representing configuration options, connected to the monitor.
+4. **Control Knob**: Possibly for adjusting settings, also connected
